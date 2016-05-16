@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Blog Entry 1
+date:   2016-05-16 18:57:31 +0000
+---
+
+I’ve never written a blog before.  Part of it is because I’m not comfortable putting myself out there – a fear of people figuring out that I’m something other than what I think they think of me?  Writing it out, it seems pretty irrational but doesn’t change how I feel about it.  Either way, we’re doing this.  
+
+The writing prompt for this entry is “Why did you decide to learn software development?”.  This is a question that, upon reflection, was one I answered long ago, but has taken until now to follow through on.  I’ve always wanted to learn programming.  I took courses in Pascal, BASIC and VB in high school and thought it was great.  In college, I continued learning programming.  This time it was ASP.net with a not great professor, poor study habits, and a burgeoning interest in environmental sciences.  The result: in 2005 I graduated with an environmental sciences degree and went to work as a consultant specializing in testing air quality.  
+
+The consulting was fun for a long time.  Working with new people in every type of industry, traveling around, seeing how things we use every day are made, and doing field work was all pretty cool.  We used some pretty impressive technology too.  Instruments that can measure 100 parts per billion (an apt comparison would be a *1” section in ~160 miles* or *1 minute in 19 years*) of smog forming compounds in near-real time, converting the measurement from analog to digital, sending it to a PC and… 
+
+Wait, it dumps it into a comma delimited text file?  That’s it?
+
+Yes, sort of.  Now we manually calculate the calibrations, complete data sheets, and perform QA/QC checks on data that is all 100% digital.  headexplode.gif
+
+Two years passed before the company invested in some repurposed software for several thousands of dollars and it still only just met our most basic needs.  There was the time I had to use an actual pen-on-paper strip chart to record data because our Windows 95 computer died and we didn’t have another computer with a printer port (this was 2008 by the way).  These types of things would happen, and I’d say “there has to be a better way to do this” or “it’s #{current_year} how can this still be a problem?” and continue doing the same things, waiting for someone else to answer my question or solve the problem.  I spent years thinking about features we should have that would save time, man hours, money, provide better analysis – years that would have been better spent learning how to build those features and not just wishing for them.
+
+Eventually, people did start solving these problems and improving the software we used.  A guy that I worked with just put his head down and figured it out.  I was part of the test team and my job was to try to break his program and report back to him, and it was great being a part of that.  I remember feeling inspired and that we accomplished something, thinking that I could learn to develop software too.  
+
+After 10 years, the air quality testing gig lost its allure and I knew I needed a change.  I remember having a particularly bad day at work - a day that would be unheard of in another profession - coming home and using my key fob to open the lock on my apartment and having this moment of clarity, realizing “even my door lock is computerized, why am I not doing this?”.  There wasn't a good answer.  I resigned in December, found Learn.co in February and have been learning since.  
+
+
